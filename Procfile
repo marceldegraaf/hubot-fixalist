@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack --name GLaDOS
+web: bin/hubot --adapter slack --name Hubot
